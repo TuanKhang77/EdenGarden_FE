@@ -1,0 +1,743 @@
+{
+    "homeCategories": [
+        {
+            "img": "./hotel.jpg",
+            "pContent": "Wellcome to",
+            "hContent": "Eden garden hotel",
+            "buttonContent": "Tìm hiểu thêm",
+            "to": "homePage",
+            "located": []
+        }
+    ],
+    "locatedCategories": [
+        {
+            "img": "./hotel-inside.jpg",
+            "pContent": "Our located",
+            "hContent": "Hanoi old quarter",
+            "buttonContent": "Về chúng tôi",
+            "to": "located",
+            "home": []
+        }
+    ],
+    "roomsCategories": [
+        {
+            "img": "./hotel-bedroom.jpg",
+            "pContent": "Luxury stay",
+            "hContent": "Rooms & suite",
+            "buttonContent": "Chi tiết phòng",
+            "to": "roomsNSuite",
+            "rooms": [
+                {
+                    "id": 1,
+                    "roomName": "Deluxe Window Double/Twin Room",
+                    "title": "Phòng Deluxe Double có cửa sổ mang đến cho bạn sự ấm áp và thư giãn sau một ngày du lịch dài.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Deluxe-Window/Deluxe-4-min.jpg",
+                    "description": "Trải nghiệm cuộc sống Hà Nội trong các phòng Deluxe rộng rãi của chúng tôi. Hãy lấy cảm hứng từ di sản nghệ thuật và không khí nghệ thuật đương đại, với nhiều ánh sáng tự nhiên từ cửa sổ, những phòng khách sáng sủa này mang đến không gian rộng rãi và tiện nghi hiện đại để làm cho kỳ nghỉ của bạn trở nên dễ dàng. Giường có thể được bố trí thành giường đôi hoặc hai giường đơn (tùy thuộc vào tình trạng sẵn có).",
+                    "inforRoom": {
+                        "id": 11,
+                        "size": "SIZE: 25.00 m²",
+                        "bed": "BED(S): 1 Double bed or 2 Singles bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Not allowed",
+                        "max": "MAX: 2 Adults",
+                        "view": "VIEW: Internal window",
+                        "uniqueFeatures": "UNIQUE FEATURES: Airy light window"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-1.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-2.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-3.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-4.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Bữa sáng miễn phí hàng ngày"
+                        },
+                        {
+                            "service": "Dọn phòng hàng ngày"
+                        },
+                        {
+                            "service": "Đồ uống chào mừng khi nhận phòng"
+                        },
+                        {
+                            "service": "Miễn phí 2 chai nước, trà và cà phê hòa tan hàng ngày"
+                        },
+                        {
+                            "service": "Dịch vụ phòng (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Phiếu giảm giá Spa, Nhà hàng & Sky Bar"
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen/Twin beds (subject to availability)"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "roomName": "Junior Balcony Double/Twin Room",
+                    "title": "Junior Suite Balcony kiểu phòng có ban công riêng, thiết kế nghệ thuật đương đại.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Junior/Junior4-1280.jpg",
+                    "description": "Dù là để đi công tác hay nghỉ dưỡng, Phòng Junior của chúng tôi đều nắm bắt được nét quyến rũ của cuộc sống hàng ngày của khu phố cổ Hà Nội. Phòng Junior tràn ngập ánh sáng tự nhiên và có tầm nhìn từ ban công ra khu phố yên tĩnh. Được thiết kế dựa trên nhu cầu của khách du lịch hiện đại ngày nay, cách bố trí rộng rãi được cải tiến với nội thất đẹp mắt và không gian để làm việc và thư giãn. Thiết lập giường có sẵn ở cả giường đôi hoặc giường đôi (tùy vào tình trạng sẵn có)    ",
+                    "inforRoom": {
+                        "id": 21,
+                        "size": "SIZE: 25.00 m²",
+                        "bed": "BED(S): 1 Double bed or 2 Singles bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Not allowed",
+                        "max": "MAX: 2 Adults up to 1 children",
+                        "view": "VIEW: Back-Side, Old quarter View",
+                        "uniqueFeatures": "UNIQUE FEATURES: Luxury & Cozy"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Junior-Balcony/Junior-4-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Junior/Executive-01-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Junior/Junior1-1920.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Junior/Junior3-1920.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Junior/Junior4-1920.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Junior-Balcony/Junior-3-min.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen/Twin beds (subject to availability)"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "roomName": "City View Room",
+                    "title": "City View Room là sự lựa chọn tuyệt vời cho khách du lịch yêu thích quang cảnh đường phố Hà Nội.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-1-min.jpg",
+                    "description": "Phòng Nhìn ra Thành phố của chúng tôi được thiết kế để mang đến cho khách hàng trải nghiệm sang trọng và thoải mái với điểm thưởng bổ sung là tầm nhìn tuyệt đẹp ra quang cảnh thành phố với bức tranh cửa sổ toàn cảnh đặc biệt trong khung cảnh thành phố trong không gian yên tĩnh. ",
+                    "inforRoom": {
+                        "id": 31,
+                        "size": "SIZE: 25.00 m²",
+                        "bed": "BED(S): 1 Double bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Not allowed",
+                        "max": "MAX: 2 Adults up to 1 children",
+                        "view": "VIEW: City View",
+                        "uniqueFeatures": "UNIQUE FEATURES: Charm of Luxury"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-1-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-4-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-3-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-5-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-7-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Suites-City-View/Suite-City-View-2-min.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen-size bed"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "roomName": "Honeymoon City View Room",
+                    "title": "Phòng Honeymoon Suite City View của chúng tôi thường được thiết kế để tạo ra bầu không khí lãng mạn và thân mật cho các cặp đôi mới cưới. Phong cách trang trí và tiện nghi được lựa chọn cẩn thận để nâng cao trải nghiệm chung của cặp đôi.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Executive-City-View/Executive-5-min.jpg",
+                    "description": "Chào mừng bạn đến điểm đến tuần trăng mật hoàn hảo, gây bất ngờ cho người thân yêu của bạn với những căn phòng trang nhã, tầm nhìn tuyệt đẹp ra đường chân trời Hà Nội và tận hưởng những khoảnh khắc lãng mạn cùng nhau.",
+                    "description2": "Đội ngũ nhân viên phụ trách đám cưới của chúng tôi sẽ sẵn lòng giúp tuần trăng mật của bạn trở nên hoàn hảo. Phòng trăng mật của chúng tôi thường được thiết kế để tạo ra bầu không khí lãng mạn và thân mật cho các cặp đôi mới cưới. Phong cách trang trí và tiện nghi được lựa chọn cẩn thận để nâng cao trải nghiệm chung của cặp đôi.",
+                    "inforRoom": {
+                        "id": 41,
+                        "size": "SIZE: 25.00 m²",
+                        "bed": "BED(S): 1 Double bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Not allowed",
+                        "max": "MAX: 2 Adults up to 1 children",
+                        "view": "VIEW: City View",
+                        "uniqueFeatures": "UNIQUE FEATURES: Charm of Luxury"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Executive-City-View/Executive-1-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Executive-City-View/Executive-2-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Executive-City-View/Executive-3-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Executive-City-View/Executive-5-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Executive-City-View/Executive-6-min.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Decoration package for your special occasion"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen-size bed"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "roomName": "Executive Suite Balcony Double/Twin",
+                    "title": "Executive Suite Giường đôi/2 giường đơn có ban công của chúng tôi được thiết kế để mang đến cho du khách trải nghiệm sang trọng và thoải mái cùng với tầm nhìn tuyệt đẹp ra quang cảnh thành phố với bức tranh toàn cảnh đặc biệt trên cửa sổ trong khung cảnh thành phố trong không gian yên tĩnh.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Banner-1280.jpg",
+                    "description": "Thoát khỏi sự hối hả và nhộn nhịp của thành phố và tìm về bầu không khí yên bình trong Phòng Executive Suite có ban công của bạn. Từ ban công kiểu Pháp riêng của bạn, cho dù bạn đang thưởng thức một tách cà phê vào buổi sáng hay thư giãn với một ly rượu vang vào buổi tối, địa điểm ấm cúng này mang đến bầu không khí thanh bình để thư giãn.",
+                    "inforRoom": {
+                        "id": 41,
+                        "size": "SIZE: 28.00 m²",
+                        "bed": "BED(S): 1 double bed or 2 single beds",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Not allowed",
+                        "max": "MAX: 2 Adults up to 1 children",
+                        "view": "VIEW: Back-Side, Old quarter View",
+                        "uniqueFeatures": "UNIQUE FEATURES: Luxury & Cozy"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Junior-1.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Junior-7.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Deluxe-6.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Junior-8.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Junior-4.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Executive-Suite-Balcony-Double-Twin/Junior-3.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/Family-Connecting-Room/Conecting-Room-3.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen/Twin beds (subject to availability)"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "roomName": "Terrace City View Room",
+                    "title": "Bước ra khỏi căn phòng sang trọng là ban công duyên dáng với tầm nhìn tuyệt đẹp ra đường phố và nhìn ra khu phố cổ Hà Nội.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Terrace-City-View/Terrace-City-View-9-min.jpg",
+                    "description": "Dành cho ai yêu ban công nhìn ra khu phố cổ Hà Nội. Làm dịu các giác quan của bạn tại Phòng Terrace Suite City View, ở vị trí cao, trang nhã và rộng rãi, phòng có ban công cho tầm nhìn tuyệt đẹp ra Phố Hàng Bông phồn hoa, mang đến cảm giác thân thiện & trải nghiệm khó quên trong kỳ nghỉ dưỡng.",
+                    "inforRoom": {
+                        "id": 41,
+                        "size": "SIZE: 25.00 m²",
+                        "bed": "BED(S): 1 double bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Allowed on the Balcony",
+                        "max": "MAX: 2 Adults up to 1 children",
+                        "view": "VIEW: City view",
+                        "uniqueFeatures": "UNIQUE FEATURES: Luxury"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Terrace-City-View/Terrace-City-View-1-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Terrace-City-View/Terrace-City-View-9-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Terrace-City-View/Terrace-City-View-5-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Terrace-City-View/Terrace-City-View-2-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Terrace-City-View/Terrace-City-View-3-min.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen-size bed"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "roomName": "E Premium Room",
+                    "title": "Phòng E Premium thể hiện sự xa hoa và tinh tế, mang đến cho du khách không chỉ một nơi lưu trú tạm thời mà còn là một trải nghiệm cá nhân và sự sang trọng hoàn toàn mới.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-2-min.jpg",
+                    "description": "Trải nghiệm sự sang trọng tột bậc trong GM Premium Suite có kiến ​​trúc tuyệt đẹp của chúng tôi. Đặc biệt rộng rãi, rộng hơn 52 m2, phòng có cách bài trí độc đáo để phù hợp với nhu cầu và phong cách của bạn.",
+                    "description2": "Bước vào phòng, du khách sẽ thấy phòng khách rộng rãi có không gian riêng để thư giãn hoặc giải trí liền kề với phòng ngủ mang lại sự riêng tư và chỗ ngủ thoải mái. Tọa lạc lý tưởng trên tầng cao, hướng về cả hướng Tây để đón hoàng hôn và hướng Đông để đón bình minh, không gian ngoài trời từ 2 ban công riêng biệt cho phép du khách bước ra ngoài và tận hưởng khung cảnh tuyệt đẹp trong từng khoảnh khắc trong ngày. Các tiện ích đi kèm trong phòng như minibar miễn phí, rượu chào mừng miễn phí... hứa hẹn sẽ mang đến cho bạn những trải nghiệm đặc biệt.",
+                    "inforRoom": {
+                        "id": 41,
+                        "size": "SIZE: 52.00 m²",
+                        "bed": "BED(S): 1 double bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Allowed on the Balcony",
+                        "max": "MAX: 3 Adults up to 1 children",
+                        "view": "VIEW: City view",
+                        "uniqueFeatures": "UNIQUE FEATURES: Luxury"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-1-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-2-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-3-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-4-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-6-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/GM-Premium-Room/GM-Premium-5-min.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/GM-premium-room/GM-Premium--1--1920.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/ROOMS-SUITES/GM-premium-room/GM-Premium--2--1920.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Free minibar"
+                        },
+                        {
+                            "service": "1 complimentary bottle of wine"
+                        },
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen-size bed"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "roomName": "Family Suite",
+                    "title": "Mỗi khi nhớ lại kỷ niệm của gia đình, căn phòng có cửa sổ và ánh sáng tự nhiên này sẽ mang đến cho bạn cảm giác ấm áp như đang ở nhà.",
+                    "bgimg": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-2.jpg",
+                    "description": "Lý tưởng cho các gia đình hoặc nhóm bạn đi du lịch cùng nhau, Family Suite sáng sủa và thoáng mát của chúng tôi mang đến một không gian rộng rãi ngay trung tâm thành phố. Suite rộng rãi có thiết lập 1 giường đôi và 1 giường đơn tận dụng nhiều ánh sáng tự nhiên từ ban ngày xung quanh cửa sổ. Sau một ngày vui chơi trong thành phố, cả gia đình sẽ sẵn sàng leo lên những chiếc giường đặc biệt thoải mái, được trang bị khăn trải giường sang trọng, sẵn sàng cho giấc ngủ sâu nhất.",
+                    "inforRoom": {
+                        "id": 41,
+                        "size": "SIZE: 30.00 m²",
+                        "bed": "BED(S): 1 double bed & 1 single bed",
+                        "bathroom": "BATHROOM: Standing shower",
+                        "smok": "SMOKING: Not allowed",
+                        "max": "MAX: Max 3 Adults + 1 Child",
+                        "view": "VIEW: Old quarter view",
+                        "uniqueFeatures": "UNIQUE FEATURES: Charm of oriental style"
+                    },
+                    "imgRoom": [
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-1.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-2.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-3.jpg"
+                        },
+                        {
+                            "img": "https://gmpremiumhotel.com/UploadFile/A-NEW-ROOM-SUITE/Family-Suite/Family-Room-4.jpg"
+                        }
+                    ],
+                    "servicesRoom": [
+                        {
+                            "service": "Daily complimentary breakfast"
+                        },
+                        {
+                            "service": "Daily housekeeping "
+                        },
+                        {
+                            "service": "Welcome drinks upon check-in"
+                        },
+                        {
+                            "service": "Daily complimentary 2 bottles of water, instant coffee & tea bags"
+                        },
+                        {
+                            "service": "Room services (14:30 - 22:00)"
+                        },
+                        {
+                            "service": "Discount coupons for Spa, Restaurant & Sky Bar "
+                        }
+                    ],
+                    "amenitiesRoom": [
+                        {
+                            "amenity": "Comfortable Queen-size bed & Single bed"
+                        },
+                        {
+                            "amenity": "Air-conditioner"
+                        },
+                        {
+                            "amenity": "Walk-in rain shower"
+                        },
+                        {
+                            "amenity": "Complimentary high-speed internet"
+                        },
+                        {
+                            "amenity": "Minifridge"
+                        },
+                        {
+                            "amenity": "LCD flat-screen TV"
+                        },
+                        {
+                            "amenity": "Hair dryer"
+                        },
+                        {
+                            "amenity": "High quality bathroom amenities"
+                        },
+                        {
+                            "amenity": "Free access to pool & fitness centre"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "poolCategories": [
+        {
+            "img": "./hotel-indoor-pool.jpg",
+            "pContent": "Indoor",
+            "hContent": "Swimming pool",
+            "buttonContent": "Tìm hiểu thêm",
+            "to": "pool",
+            "pool": []
+        }
+    ],
+    "barCategories": [
+        {
+            "img": "./hotel-bar.jpg",
+            "pContent": "Top floor",
+            "hContent": "Solar Sky bar",
+            "buttonContent": "Explore",
+            "to": "bar",
+            "bar": []
+        }
+    ]
+}
